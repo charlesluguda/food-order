@@ -14,18 +14,7 @@
         <div class="wrapper text-center">
         <p><strong>DASHBOARD</strong></p>
         <div class="col-4">
-            <div class="box-container">
-                Category
-            </div>
-            <div class="box-container">
-                Category
-            </div>
-            <div class="box-container">
-                Category
-            </div>
-            <div class="box-container">
-                Category
-            </div>
+
         </div>
         </div>
     </main>
